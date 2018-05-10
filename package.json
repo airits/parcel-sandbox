@@ -1,0 +1,12 @@
+{
+  "name": "parcel-sandbox",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/airits/parcel-sandbox",
+  "author": "ak10m <akio.morimoto@airits.jp>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "parcel-bundler": "^1.8.1"
+  }
+}
